@@ -2,14 +2,14 @@
 #
 - JDK 21 
 - Maven 3.9 
-- MySQL 8
-
-# Technologies 
+- MySQL 7
+###
+# Technologies m
 - JAKARTA
 - Spring MVC
 - Spring Security
 - Spring Data JPA
-- Maven
+
 - JSP
 - Tomcat
 - MySQL
